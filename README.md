@@ -62,7 +62,7 @@ html, body {
 ```
 
 ### Continued development
-In this project, I was not very comfrotable with centering divs in a parent element. Going forward, I would want to improve my understanding of that concept.
+In this project, I was not very comfortable with centring divs in a parent element. Going forward, I would want to improve my understanding of that concept.
 
 ### Useful resources
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element) - This helped me to understand how to center elements vertically in CSS.
