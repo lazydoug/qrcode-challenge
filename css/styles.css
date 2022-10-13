@@ -1,4 +1,4 @@
-html, body {
+html, body, main {
   align-items: center;
   background-color: #D6E2F0;
   display: flex;
@@ -14,7 +14,7 @@ html, body {
   box-shadow: 1px 2px 50px 0 #7B879D;
   margin: auto;
   width: 19%;
-/*   min-width: 150px; */
+  min-width: 150px;
   padding: 15px 15px 20px;
 }
 
