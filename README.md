@@ -34,8 +34,6 @@ This is my first challenge on Frontend Mentor. I took on this challenge so as to
 - CSS
 
 ### What I learned
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 I learned that the CSS center properties only work in flexboxes (i.e. the display property must be set to 'flex' for the parent element). Also the height of the parent element must be set to vertially align the child.
 
 
